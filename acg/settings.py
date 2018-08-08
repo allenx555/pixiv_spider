@@ -91,3 +91,4 @@ ROBOTSTXT_OBEY = False
 
 ITEM_PIPELINES = {'acg.pipelines.AcgPipeline': 300}
 
+LOG_LEVEL = 'INFO'
